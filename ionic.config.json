@@ -1,0 +1,8 @@
+{
+  "name": "my ionic menu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "fa656a7d"
+}
